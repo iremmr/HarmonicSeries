@@ -1,4 +1,6 @@
 # HarmonicSeries
+
+Bir harmonik serideki toplamı bulmak için:
 ```
 import java.util.Scanner;
 
